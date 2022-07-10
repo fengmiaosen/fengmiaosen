@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on DiDi
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on ...
